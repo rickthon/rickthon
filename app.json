@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/rick1128/sbb_b1",
+      "value": "rickthon",
       "required": false
     }
   },
